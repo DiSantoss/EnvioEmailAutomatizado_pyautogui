@@ -86,3 +86,5 @@ Ao executar o arquivo automated_email.ipynb, você será solicitado a fornecer a
 # Contribuição
 Se você encontrar algum problema ou tiver sugestões de melhoria, sinta-se à vontade para abrir uma issue ou um pull request. Suas contribuições são muito bem-vindas!
 
+# OBS:
+Devo ressaltar que essa é a configuração do meu computador(com resolução específica), é necessario atualizar as informações de posição atuais do seu computador!
